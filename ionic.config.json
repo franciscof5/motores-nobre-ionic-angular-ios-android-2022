@@ -1,0 +1,8 @@
+{
+  "name": "motorosnobre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b3f8f23d"
+}
